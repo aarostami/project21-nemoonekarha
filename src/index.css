@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: byekan;
+  src: url('font/b_Yekan.ttf');
+}
+
+body {
+  margin: 0;
+  font-family: byekan !important;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  font-weight: 100;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f7f7f7;
+  /* background: #4e54c8; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
