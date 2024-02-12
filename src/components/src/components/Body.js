@@ -199,7 +199,7 @@ function Body() {
                 </section>
                 <Divider variant='middle' component='section' style={{ margin: '2rem 0' }} />
                 <section className='contactme' style={{ paddingBottom: '1rem' }}>
-                    <Typography variant='h5' fontWeight='bold' fontFamily='byekan'>تماس با من سلام</Typography>
+                    <Typography variant='h5' fontWeight='bold' fontFamily='byekan'>تماس با من</Typography>
                     <Grid container>
                         <Box>
                             <Typography variant='body' fontFamily='byekan'>شماره تماس: 09193976582</Typography>
